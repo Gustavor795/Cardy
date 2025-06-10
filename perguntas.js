@@ -1,23 +1,23 @@
 criaCartao(
-    'Conhecimentos gerais',
-    'Quem nasceu primeiro, o ovo ou a galinha?',
-    'Um bom agrônimo diria: depende'
+    'Sobre um personagem de um jogo,
+    'Qual é o nome de um personagem careca quem tem uma tatuagem?
+    'Kleitão bom de guerra'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Paris?',
-    'A capital de Paris é Diadema'
+    'Sobre anime',
+    'Qual o Vampiro mais forte dos animes?',
+    'Alucard (hellsing)'
 )
 
 criaCartao(
-    'História',
-    'Qual a cor do cavalo "Branco" de Napoleão?',
-    'Só sei que não era verde'
+    'Dragon ball',
+    'Qual e o personagem mais carismático do desenho',
+    'Exatamente o luffy'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'O que significa "i love you"?',
-    'Quer dizer morena em Francês'
+    'Jojo',
+    'Quem é o personagem com um jeito bem gay?'
+    'Exatamente e o vegeta'
 )
