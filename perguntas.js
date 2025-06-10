@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Jojo',
-    'Quem é o personagem com um jeito bem gay?'
-    'Exatamente e o vegeta'
+    'Quem é o personagem com um jeito bem gay?',
+    'Exatamente e você'
 )
