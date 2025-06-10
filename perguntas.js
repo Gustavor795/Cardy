@@ -1,5 +1,5 @@
 criaCartao(
-    'Sobre um personagem de um jogo,
+    'Sobre um personagem de um jogo',
     'nome de um personagem careca quem tem uma tatuagem?',
     'Kleitão bom de guerra'
 )
