@@ -1,6 +1,6 @@
 criaCartao(
     'Sobre um personagem de um jogo,
-    'Qual é o nome de um personagem careca quem tem uma tatuagem?
+    'Qual é o nome de um personagem careca quem tem uma tatuagem?'
     'Kleitão bom de guerra'
 )
 
